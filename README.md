@@ -6,8 +6,7 @@ http://sds.github.com/boggle-solver/?rows=4&cols=4&text=boggleisafungame
 
 After having played a couple of games of Boggle, I found myself frustrated by my
 inability to conjure up words as quickly as my competitors. Thus I decided to
-build something that would solve the puzzle for me. The unfortunate side effect
-is that now my friends won't play Boggle with me.
+build something that would solve the puzzle for me. 
 
 Instructions
 ------------
